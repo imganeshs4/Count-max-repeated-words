@@ -1,0 +1,9 @@
+But saying that heat energy caused Harvey is also somewhat problematic. Let’s explain by way of an analogy.
+
+Say I turned up Earth’s gravity by 1 percent. More people around the world would trip and fall. Does it make sense to say, of a particular person tripping and falling, that the increase in gravity (“gravity change”) caused it to happen? No. Does it make sense to say that gravity cause it to happen? No.
+
+For any particular instance of tripping and falling, there will be proximate causes — a slippery patch on the sidewalk, a moment’s inattention, whatever. Gravity is a background condition of anyone tripping, but no one would say gravity caused them to trip. If it’s true, it’s trivially true.
+
+What we might say is that the increase in gravity raised the probability of tripping and falling, or raised the average severity of tripping and falling. Those are measurable facts that can be entirely true without increased gravity causing any particular fall.
+
+Increased gravity is a causal condition in every fall, but it is not the primary causal agent in any one fall. Similarly, increased heat energy is a causal condition in every storm (not just the bad ones) — every storm forms and travels in the same global climate — but it is not the primary causal agent in any storm. 
